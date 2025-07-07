@@ -1,6 +1,6 @@
 # 🧠 E-Waste Image Classification | AICTE Internship Project
 
-## 🌍 Importance of E-Waste Classification
+## 🌍 E-waste is surrounding the Earth, threatening our planet one device at a time.
 
 ![E-Waste Awareness](ewaste_pic.jpg)
 
