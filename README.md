@@ -1,5 +1,10 @@
 # 🧠 E-Waste Image Classification | AICTE Internship Project
 
+## 🌍 Importance of E-Waste Classification
+
+![E-Waste Awareness](ewaste_pic.jpg)
+
+Proper classification of e-waste enables better recycling, reduces environmental damage, and promotes sustainable technology disposal.
 
 This project was developed as part of the **AICTE Virtual Internship Program**. It addresses the growing problem of electronic waste (e-waste) by using a deep learning model to automatically classify e-waste images into categories.
 
